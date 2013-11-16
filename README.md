@@ -8,7 +8,7 @@ Components
 ----------
   - freeipa-server
   - git-server
-  - haproxy-server
+  - squid-proxy
   - jenkins-server
   - ntp-server
   - postfix-relay
